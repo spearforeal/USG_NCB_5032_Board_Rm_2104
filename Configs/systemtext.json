@@ -69,8 +69,10 @@
             "PC1 In2",
             "PC2 In1",
             "PC2 In2",
+            "Spare In",
             "WP1 In",
             "WP2 In"
+
         ],
         "DestinationNames": [
             "Audio1",
