@@ -127,8 +127,8 @@
         ],
         "CameraVisibility":[
             "True",
-            "false",
-            "False",
+            "true",
+            "true",
             "False",
             "False",
             "False"
