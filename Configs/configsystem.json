@@ -1,6 +1,6 @@
 {
     "SystemConfig": {   
-        "SystemName": ["NCB_Divisible_Conf_4115"],
+        "SystemName": ["Board Room 2104"],
         "CustomerNumber": [
             "3248"
         ],
@@ -8,7 +8,7 @@
             "59288311"
         ],
         "AutoshutdownEnable":["True"],
-        "DSP01IpAddress":["10.174.132.35"],
+        "DSP01IpAddress":["10.60.2.21"],
         "PasswordInUse":["false"],
         "PasswordOnMode7":[
             "True"
@@ -19,29 +19,26 @@
         "USBSwitcherPassword": [""],
         "USBSwitcherDebugname": [""],
         "USBSwitcherPortnumber": [2234],
-        "Camera1IpAddress":["10.174.132.46"],
+        "Camera1IpAddress":["10.160.2.41"],
         "Camera1UserName":["admin"],
         "Camera1Password":["8012662428"],
-        "Camera2IpAddress":[""],
+        "Camera2IpAddress":["10.160.2.42"],
         "Camera2UserName":["admin"],
         "Camera2Password":["8012662428"],
-        "Camera3IpAddress":[""],
-        "Camera3UserName":["Admin"],
-        "Camera3Password":["Password"],
-        "WindowProc1Hostname":["10.174.132.210"],
+        "Camera3IpAddress":["10.160.2.43"],
+        "Camera3UserName":["admin"],
+        "Camera3Password":["8012662428"],
+        "WindowProc1Hostname":["10.60.2.205"],
         "WindowProc1Username":["admin"],
         "WindowProc1Password":["8012662428"],
-        "WindowProc1Debugname":["MGP 641 xi"],
+        "WindowProc1Debugname":["[WP][01]"],
         "WindowProc1Portnumber":[22023],
-        "WindowProc2Hostname":["10.60.4.219"],
+        "WindowProc2Hostname":["10.60.2.206"],
         "WindowProc2Username":["admin"],
         "WindowProc2Password":["8012662428"],
-        "WindowProc2Debugname":["MGP 641 xi"],
+        "WindowProc2Debugname":["[WP][02]"],
         "WindowProc2Portnumber":[22023],
         "PresetManager1FileName":["roomapresets"],
-        "PresetManager2FileName":["roombpresets"],
-        "PresetManager3FileName":["roomabpresets"],
-
         "ModeVisibility": [
             "true",
             "true",
@@ -110,7 +107,7 @@
         ],
         "DisplayIsProjector":[
             "false",
-            "true",
+            "false",
             "false",
             "False",
             "False",
