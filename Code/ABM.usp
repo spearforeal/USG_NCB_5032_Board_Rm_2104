@@ -66,3 +66,13 @@ PUSH WP2Selected
 	clearbuttons();
 	updatePresets();
 }
+change Wp1
+{
+	clearbuttons();
+	updatePresets();
+}
+change Wp2
+{
+	clearbuttons();
+	updatePresets();
+}
