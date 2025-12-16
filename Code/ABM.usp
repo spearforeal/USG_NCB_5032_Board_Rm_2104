@@ -56,3 +56,13 @@ function updatePresets()
 		Preset7Selected = 1;
 	}
 }
+PUSH WP1Selected
+{
+	clearbuttons();
+	updatePresets();
+}
+PUSH WP2Selected
+{
+	clearbuttons();
+	updatePresets();
+}
