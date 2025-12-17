@@ -169,11 +169,22 @@
         ],
 		"LightingPresetNames":
 		[
-			"Blackout",
-			"Shade",
-			"Shade",
-			"Shade",
+			"All On",
+			"All Off",
+			"Scene 1",
+			"Scene 2",
 			"Scene 3",
+            "Scene 4",
+            "Up",
+            "Down"
+		],
+		"ShadePresetNames":
+		[
+			"75%",
+			"50%",
+			"Scene 1",
+			"Scene 2",
+			"25%",
             "Scene 4",
             "Up",
             "Down"
