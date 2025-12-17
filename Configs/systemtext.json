@@ -190,9 +190,9 @@
             "Down"
 		],
         "CameraNames":[
-            "Front Right Camera",
-            "Front Left Camera",
-            "Rear Right Camera",
+            "Left Camera",
+            "Right Camera",
+            "Center Camera",
             "Rear Left Camera",
             "Center Camera",
             "Main Camera"
