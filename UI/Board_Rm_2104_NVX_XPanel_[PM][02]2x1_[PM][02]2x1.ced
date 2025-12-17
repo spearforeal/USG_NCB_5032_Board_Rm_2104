@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=Board_Rm_2104_NVX_XPanel_[PM][02]2x1_[PM][02]2x1.ced
 Hint=[PM][02]2x1 (Smart Object ID=55)
-Code=55
+Code=56
 SGControlType=Subpage Reference List Horizontal
 SGControlName=[PM][02]2x1
 GUID=E1ED4890-4BF0-4ED7-A182-4D35851AC8BE
@@ -220,14 +220,14 @@ OutputList3SigType18=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=55
-CedH=55
+Pp1=56
+CedH=56
 SmartObjId=55d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=55
+H=56
 Tp=1
 HD=TRUE
 DV=55d
@@ -240,7 +240,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=55
+H=56
 Name=Board_Rm_2104_NVX_XPanel_[PM][02]2x1_[PM][02]2x1.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
