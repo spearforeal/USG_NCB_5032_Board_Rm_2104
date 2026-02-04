@@ -1,27 +1,50 @@
 {
-    "SystemText":{
+    "SystemText": {
         "WelcomeText": [
             "Touch Screen to Start"
         ],
-        "ShutdownInstructions":["Are you sure you want to shutdown"],
+        "ShutdownInstructions": [
+            "Are you sure you want to shutdown"
+        ],
         "RoutingInstructions": [
             "Select the source and location you would like to route the source to."
         ],
-        "SingleDestRoutingInstructions":[
+        "SingleDestRoutingInstructions": [
             "Please select the source below."
-          ],
-        "MicControlPageTitle":["Mic Control"],
-        "CameraSrcInstructions":["Please select your source"],
-        "PMOutputSelect1Label":["Windoe Proc 1"],
-        "PMOutputSelect2Label":["Window Proc 2"],
-        "PMOutputSelect3Label":[""],
-        "PMOutputSelect4Label":[""],
-        "PMRoutingHeader1":["Window Processor"],
-        "PMRoutingHeader2":["Outputs"],
-        "RoomModeBtn1Label":["Separate"],
-        "RoomModeBtn2Label":["Combine"],
-        "RoomModeInstructions":["Matt, we need instructions here. HELP!"],
-
+        ],
+        "MicControlPageTitle": [
+            "Mic Control"
+        ],
+        "CameraSrcInstructions": [
+            "Select Far End Window 1 Source"
+        ],
+        "PMOutputSelect1Label": [
+            "Windoe Proc 1"
+        ],
+        "PMOutputSelect2Label": [
+            "Window Proc 2"
+        ],
+        "PMOutputSelect3Label": [
+            ""
+        ],
+        "PMOutputSelect4Label": [
+            ""
+        ],
+        "PMRoutingHeader1": [
+            "Window Processor"
+        ],
+        "PMRoutingHeader2": [
+            "Outputs"
+        ],
+        "RoomModeBtn1Label": [
+            "Separate"
+        ],
+        "RoomModeBtn2Label": [
+            "Combine"
+        ],
+        "RoomModeInstructions": [
+            ""
+        ],
         "ModeNames": [
             "Routing",
             "Display Control",
@@ -31,14 +54,14 @@
             "ATC",
             "Advance"
         ],
-        "AdvanceModeNames":[
+        "AdvanceModeNames": [
             "Preset Manager",
             "A Mode 2",
             "A Mode 3",
             "A Mode 4",
             "A Mode 5"
         ],
-        "AudioControlSubMenuNames":[
+        "AudioControlSubMenuNames": [
             "Line",
             "Mic",
             "Outputs",
@@ -62,9 +85,9 @@
             "Spare In",
             "Apple Tv",
             "Stream In",
-            "Camera 1",
-            "Camera 2",
-            "Camera 3",
+            "Left Camera",
+            "Center Camera",
+            "Right Camera",
             "PC1 In1",
             "PC1 In2",
             "PC2 In1",
@@ -72,36 +95,33 @@
             "Spare In",
             "WP1 In",
             "WP2 In"
-
         ],
         "DestinationNames": [
-            "Audio1",
-            "MediaPort1",
-            "WP1Input1",
-            "WP1Input2",
-            "WP1Input3",
-            "WP1Input4",
-            "Stream Out",
-            "Display Left",
-            "Display Right",
-            "WP1Input2",
-            "WP1Input3",
-            "WP1Input4",
-            "WP2Input1",
-            "WP2Input2",
-            "WP2Input3",
-            "WP2Input4",
-            "Display1",
-            "Display2",
-            "Projector",
-            ""
-
+            "Left Display",
+            "Right Display",
+            "Desk Out 1",
+            "Desk Out 2",
+            "Desk Out 3",
+            "Desk Out 4",
+            "PC1 via USB",
+            "PC2 via USB",
+            "WP1 Input 1",
+            "WP1 Input 2",
+            "WP1 Input 3",
+            "WP1 Input 4",
+            "WP2 Input 1",
+            "WP2 Input 2",
+            "WP2 Input 3",
+            "WP2 Input 4",
+            "Audio",
+            "MediaPort 1",
+            "MediaPort 2",
+            "Stream out"
         ],
-
-        "DisplayNames":[
+        "DisplayNames": [
+            "Left Display",
+            "Right Display",
             "Display",
-            "Projector",
-            "Display Center",
             "Side Display",
             "Side Display",
             "Side Display",
@@ -110,7 +130,7 @@
             "Side Display",
             "Side Display"
         ],
-        "DisplayPresetNames":[
+        "DisplayPresetNames": [
             "All On",
             "All Off",
             "Preset 3",
@@ -122,13 +142,12 @@
             "Preset 9",
             "Preset 10"
         ],
-
-        "AudioControlNames":[
-            "Program",
-            "Phone Incoming",
-            "Audio Control 3",
+        "AudioControlNames": [
+            "Speakers",
+            "HDMI",
+            "Aux",
             "Audio Control 4",
-            "Audio Control 5",
+            "USB",
             "Audio Control 6",
             "Audio Control 7",
             "Audio Control 8",
@@ -145,10 +164,10 @@
             "Audio Control 19",
             "Audio Control 20"
         ],
-        "MicControlNames":[
+        "MicControlNames": [
             "Privacy",
-            "Mic Control 2",
-            "Mic Control 3",
+            "Wireless Mics",
+            "Wired Mics",
             "Mic Control 4",
             "Mic Control 5",
             "Mic Control 6",
@@ -167,37 +186,35 @@
             "Mic Control 19",
             "Mic Control 20"
         ],
-		"LightingPresetNames":
-		[
-			"All On",
-			"All Off",
-			"Scene 1",
-			"Scene 2",
-			"Scene 3",
+        "LightingPresetNames": [
+            "All On",
+            "All Off",
+            "Scene 1",
+            "Scene 2",
+            "Scene 3",
             "Scene 4",
             "Up",
             "Down"
-		],
-		"ShadePresetNames":
-		[
-			"75%",
-			"50%",
-			"Scene 1",
-			"Scene 2",
-			"25%",
-            "Scene 4",
-            "Up",
-            "Down"
-		],
-        "CameraNames":[
-            "Left Camera",
-            "Right Camera",
-            "Center Camera",
-            "Rear Left Camera",
-            "Center Camera",
-            "Main Camera"
         ],
-        "CameraCtrlNames":[
+        "ShadePresetNames": [
+            "75%",
+            "50%",
+            "Scene 1",
+            "Scene 2",
+            "25%",
+            "Scene 4",
+            "Up",
+            "Down"
+        ],
+        "CameraNames": [
+            "Left Camera",
+            "Center Camera",
+            "Right Camera",
+            "Camera",
+            "Camera",
+            "Camera"
+        ],
+        "CameraCtrlNames": [
             "Power On",
             "Power Off",
             "Zoom +",
@@ -205,21 +222,20 @@
             "Home",
             "Multiview"
         ],
-
-        "CameraPresetNames":[
+        "CameraPresetNames": [
             "Preset 1",
             "Preset 2",
             "Preset 3",
             "Preset 4"
         ],
-        "AdvancePresetNames":[
+        "AdvancePresetNames": [
             "Preset 1",
             "Preset 2",
             "Preset 3",
             "Preset 4",
             "Preset 5"
         ],
-        "WP1PresetNames":[
+        "WP1PresetNames": [
             "Full Screen",
             "2x2",
             "2x1",
@@ -228,37 +244,54 @@
             "1x3",
             "PnP"
         ],
-        "RoutingPresetNames":[
+        "RoutingPresetNames": [
             "Preset 1",
             "Preset 2",
             "Preset 3",
             "Preset 4",
             "Preset 5"
         ],
-
-        "Mode1HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode1HelpMessage2":["This is the Video Routing page. Select the video source to be routed to the destination."],
-
-        "Mode2HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode2HelpMessage2":["This is the Display Control page. Here Displays can be powered on/off manually."],
-
-        "Mode3HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode3HelpMessage2":["This is the Camera Control page. Use the controls here to adjust and aim the camera as desired. The source selected is routed to the far end."],
-
-        "Mode4HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode4HelpMessage2":["This is the lighting control page. Select the desired lighting scene."],
-
-        "Mode5HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode5HelpMessage2":["This is the Audio Controls page. Select the source type on the left, and adjust the level as needed"],
-
-        "Mode6HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode6HelpMessage2":["This is the Audio Conferencing page. Dial or End calls here"],
-
-        "Mode7HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
-        "Mode7HelpMessage2":["This message is the mode 7 help message 2 of 2. I suppose that there should be some information here but I got nothing."]
-
-
-        
-
+        "Mode1HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode1HelpMessage2": [
+            "This is the Video Routing page. Select the video source to be routed to the destination."
+        ],
+        "Mode2HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode2HelpMessage2": [
+            "This is the Display Control page. Here Displays can be powered on/off manually."
+        ],
+        "Mode3HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode3HelpMessage2": [
+            "This is the Camera Control page. Use the controls here to adjust and aim the camera as desired. The source selected is routed to the far end."
+        ],
+        "Mode4HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode4HelpMessage2": [
+            "This is the lighting control page. Select the desired lighting scene."
+        ],
+        "Mode5HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode5HelpMessage2": [
+            "This is the Audio Controls page. Select the source type on the left, and adjust the level as needed"
+        ],
+        "Mode6HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode6HelpMessage2": [
+            "This is the Audio Conferencing page. Dial or End calls here"
+        ],
+        "Mode7HelpMessage1": [
+            "Selecting the buttons above will switch the page to access the other control pages."
+        ],
+        "Mode7HelpMessage2": [
+            "This message is the mode 7 help message 2 of 2. I suppose that there should be some information here but I got nothing."
+        ]
     }
 }
