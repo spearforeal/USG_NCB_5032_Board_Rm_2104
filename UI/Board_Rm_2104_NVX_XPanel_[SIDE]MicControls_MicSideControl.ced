@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[SIDE]MicControls_MicSideControl.ced
+Name=Board_Rm_2104_NVX_Xpanel_[SIDE]MicControls_MicSideControl.ced
 Hint=MicSideControl (Smart Object ID=15)
 Code=23
 SGControlType=Subpage Reference List Horizontal
 SGControlName=MicSideControl
 GUID=DF30B691-8B65-44ED-BB4E-C5A17F0AB1E6
-SmplCName=Board_Rm_2104_NVX_XPanel_[SIDE]MicControls_MicSideControl.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[SIDE]MicControls_MicSideControl.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -261,7 +261,7 @@ Sgn=0
 [
 ObjTp=CED
 H=23
-Name=Board_Rm_2104_NVX_XPanel_[SIDE]MicControls_MicSideControl.ced
+Name=Board_Rm_2104_NVX_Xpanel_[SIDE]MicControls_MicSideControl.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

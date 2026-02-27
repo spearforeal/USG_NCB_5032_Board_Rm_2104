@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
+Name=Board_Rm_2104_NVX_Xpanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
 Hint=PresetManagerCtrlsRight (Smart Object ID=34)
-Code=36
+Code=37
 SGControlType=Subpage Reference List Vertical
 SGControlName=PresetManagerCtrlsRight
 GUID=6D1A6D2F-42B4-49AF-A5C3-557E8A14527E
-SmplCName=Board_Rm_2104_NVX_XPanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -224,14 +224,14 @@ OutputList3SigType15=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=36
-CedH=36
+Pp1=37
+CedH=37
 SmartObjId=34d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=36
+H=37
 Tp=1
 HD=TRUE
 DV=34d
@@ -244,8 +244,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=36
-Name=Board_Rm_2104_NVX_XPanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
+H=37
+Name=Board_Rm_2104_NVX_Xpanel_[AMODE]PresetManager_PresetManagerCtrlsRight.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

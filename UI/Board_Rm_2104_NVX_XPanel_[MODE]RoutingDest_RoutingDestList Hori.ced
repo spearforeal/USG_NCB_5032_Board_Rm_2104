@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]RoutingDest_RoutingDestList Hori.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]RoutingDest_RoutingDestList Hori.ced
 Hint=RoutingDestList Hori (Smart Object ID=9)
 Code=33
 SGControlType=Subpage Reference List Horizontal
 SGControlName=RoutingDestList Hori
 GUID=FBA7DDDE-4652-425E-A46B-E85CBFC6C003
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]RoutingDest_RoutingDestList Hori.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]RoutingDest_RoutingDestList Hori.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -597,7 +597,7 @@ Sgn=0
 [
 ObjTp=CED
 H=33
-Name=Board_Rm_2104_NVX_XPanel_[MODE]RoutingDest_RoutingDestList Hori.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]RoutingDest_RoutingDestList Hori.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

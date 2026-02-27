@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPresetList.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPresetList.ced
 Hint=DisplayControlPresetList (Smart Object ID=7)
 Code=17
 SGControlType=Subpage Reference List Horizontal
 SGControlName=DisplayControlPresetList
 GUID=685B9797-EA74-4F36-BC02-50E6B0AE1255
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPresetList.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPresetList.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -357,7 +357,7 @@ Sgn=0
 [
 ObjTp=CED
 H=17
-Name=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPresetList.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPresetList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

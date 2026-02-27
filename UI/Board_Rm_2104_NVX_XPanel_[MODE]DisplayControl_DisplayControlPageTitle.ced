@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 Hint=DisplayControlPageTitle (Smart Object ID=27)
 Code=18
 SGControlType=Subpage Reference List Horizontal
 SGControlName=DisplayControlPageTitle
 GUID=1E58576F-123C-4A7D-8C63-ABC457D28006
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -201,7 +201,7 @@ Sgn=0
 [
 ObjTp=CED
 H=18
-Name=Board_Rm_2104_NVX_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

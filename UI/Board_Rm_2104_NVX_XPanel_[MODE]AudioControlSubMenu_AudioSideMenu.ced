@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
 Hint=AudioSideMenu (Smart Object ID=16)
 Code=24
 SGControlType=Subpage Reference List Vertical
 SGControlName=AudioSideMenu
 GUID=8D68CC75-53B6-4BFA-AA17-C67F0B44594E
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -277,7 +277,7 @@ Sgn=0
 [
 ObjTp=CED
 H=24
-Name=Board_Rm_2104_NVX_XPanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]AudioControlSubMenu_AudioSideMenu.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

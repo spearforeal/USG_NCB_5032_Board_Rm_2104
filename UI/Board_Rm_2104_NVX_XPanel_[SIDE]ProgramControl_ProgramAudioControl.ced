@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[SIDE]ProgramControl_ProgramAudioControl.ced
+Name=Board_Rm_2104_NVX_Xpanel_[SIDE]ProgramControl_ProgramAudioControl.ced
 Hint=ProgramAudioControl (Smart Object ID=14)
 Code=22
 SGControlType=Subpage Reference List Horizontal
 SGControlName=ProgramAudioControl
 GUID=812B3807-8669-4F09-A9B0-8A8687E59E8F
-SmplCName=Board_Rm_2104_NVX_XPanel_[SIDE]ProgramControl_ProgramAudioControl.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[SIDE]ProgramControl_ProgramAudioControl.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -261,7 +261,7 @@ Sgn=0
 [
 ObjTp=CED
 H=22
-Name=Board_Rm_2104_NVX_XPanel_[SIDE]ProgramControl_ProgramAudioControl.ced
+Name=Board_Rm_2104_NVX_Xpanel_[SIDE]ProgramControl_ProgramAudioControl.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

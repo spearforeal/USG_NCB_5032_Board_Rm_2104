@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
+Name=Board_Rm_2104_NVX_Xpanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
 Hint=[PM][02]1x3Vert (Smart Object ID=56)
-Code=56
+Code=57
 SGControlType=Subpage Reference List Horizontal
 SGControlName=[PM][02]1x3Vert
 GUID=EEBDCED5-0F9B-427B-B508-BCFD0EF55159
-SmplCName=Board_Rm_2104_NVX_XPanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -232,14 +232,14 @@ OutputList3SigType20=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=56
-CedH=56
+Pp1=57
+CedH=57
 SmartObjId=56d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=56
+H=57
 Tp=1
 HD=TRUE
 DV=56d
@@ -252,8 +252,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=56
-Name=Board_Rm_2104_NVX_XPanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
+H=57
+Name=Board_Rm_2104_NVX_Xpanel_[PM][02]1x3Vert_[PM][02]1x3Vert.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

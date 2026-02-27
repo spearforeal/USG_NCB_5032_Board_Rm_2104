@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]CameraControl_DPad.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]CameraControl_DPad.ced
 Hint=DPad (Smart Object ID=3)
 Code=1
 SGControlType=DPad
 SGControlName=DPad
 GUID=E2B2F93E-48E8-45E7-8457-C0357993B698
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]CameraControl_DPad.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]CameraControl_DPad.ced
 SMWRev=4.02.19
 Expand=expand_random
 HelpID=10015
@@ -77,7 +77,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=Board_Rm_2104_NVX_XPanel_[MODE]CameraControl_DPad.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]CameraControl_DPad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=Board_Rm_2104_NVX_XPanel_[MODE]ATC_ATCKeypad.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]ATC_ATCKeypad.ced
 Hint=ATCKeypad (Smart Object ID=19)
 Code=27
 SGControlType=Simple Keypad
 SGControlName=ATCKeypad
 GUID=4B48E24C-2612-42A8-BB5F-DF4A38C502F4
-SmplCName=Board_Rm_2104_NVX_XPanel_[MODE]ATC_ATCKeypad.ced
+SmplCName=Board_Rm_2104_NVX_Xpanel_[MODE]ATC_ATCKeypad.ced
 SMWRev=4.02.19
 Expand=expand_random
 HelpID=10061
@@ -105,7 +105,7 @@ Sgn=0
 [
 ObjTp=CED
 H=27
-Name=Board_Rm_2104_NVX_XPanel_[MODE]ATC_ATCKeypad.ced
+Name=Board_Rm_2104_NVX_Xpanel_[MODE]ATC_ATCKeypad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
